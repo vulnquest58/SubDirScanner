@@ -172,4 +172,3 @@ If you find **SubDirScanner** useful, please consider starring the repository on
 ---
 
 **Author** : [vulnquest58]  
-**Contact** : [vulnquest@gmail.com]
