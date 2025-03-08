@@ -8,14 +8,14 @@
 
 ## Table of Contents
 
-1. [Features](https://chat.qwen.ai/c/2a3214e5-825a-48b4-9fb6-0a9750ab2381#features)
-2. [Installation](https://chat.qwen.ai/c/2a3214e5-825a-48b4-9fb6-0a9750ab2381#installation)
-3. [Usage](https://chat.qwen.ai/c/2a3214e5-825a-48b4-9fb6-0a9750ab2381#usage)
-4. [Examples](https://chat.qwen.ai/c/2a3214e5-825a-48b4-9fb6-0a9750ab2381#examples)
-5. [Configuration](https://chat.qwen.ai/c/2a3214e5-825a-48b4-9fb6-0a9750ab2381#configuration)
-6. [Contributing](https://chat.qwen.ai/c/2a3214e5-825a-48b4-9fb6-0a9750ab2381#contributing)
-7. [License](https://chat.qwen.ai/c/2a3214e5-825a-48b4-9fb6-0a9750ab2381#license)
-8. [Disclaimer](https://chat.qwen.ai/c/2a3214e5-825a-48b4-9fb6-0a9750ab2381#disclaimer)
+1. [Features](https://github.com/vulnquest58/SubDirScanner/blob/main/README.md#features)
+2. [Installation](https://github.com/vulnquest58/SubDirScanner/blob/main/README.md#installation)
+3. [Usage](https://github.com/vulnquest58/SubDirScanner/blob/main/README.md#usage)
+4. [Examples](https://github.com/vulnquest58/SubDirScanner/blob/main/README.md#examples)
+5. [Configuration](https://github.com/vulnquest58/SubDirScanner/blob/main/README.md#configuration)
+6. [Contributing](https://github.com/vulnquest58/SubDirScanner/blob/main/README.md#contributing)
+7. [License](https://github.com/vulnquest58/SubDirScanner/blob/main/README.md#license)
+8. [Disclaimer](https://github.com/vulnquest58/SubDirScanner/blob/main/README.md#disclaimer)
 
 ---
 
