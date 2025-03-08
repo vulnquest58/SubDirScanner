@@ -38,7 +38,7 @@ To use **SubDirScanner** , you need to have Python 3.6 or higher installed on yo
 1. **Clone the Repository** :
 
 ```
-    git clone https://github.com/yourusername/subdirscanner.git
+  git clone https://github.com/vulnquest58/SubDirScanner.git
 ```
 ```
     cd subdirscanner
