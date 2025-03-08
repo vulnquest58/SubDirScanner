@@ -44,12 +44,12 @@ To use **SubDirScanner** , you need to have Python 3.6 or higher installed on yo
     cd subdirscanner
 ```
     
-2. **Install Dependencies** :
+2. **Install Dependencies** : 
     
 ```
     pip install -r requirements.txt
 ```
-    
+Simplify Python Virtual Environment and Package Management [Pipven](https://github.com/vulnquest58/Pipven)
 Alternatively, install the required libraries manually:
 
 ```
