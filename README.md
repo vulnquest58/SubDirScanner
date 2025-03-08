@@ -50,7 +50,7 @@ To use **SubDirScanner** , you need to have Python 3.6 or higher installed on yo
     pip install -r requirements.txt
 ```
     
-    Alternatively, install the required libraries manually:
+Alternatively, install the required libraries manually:
 
 ```
     pip install requests sublist3r validators
